@@ -1,0 +1,24 @@
+body {
+	margin: 0;
+	background: #333;
+}
+
+#map {
+	position: absolute;
+	width: 80%;
+	height: 90%;
+	top: 5%;
+	left: 10%;
+	background: #888888;
+}
+
+.txt {
+	width: 25%;
+	float: left;
+	font-family: "幼圆";
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 20px;
+	color: white;
+}
