@@ -5,7 +5,7 @@ def get_conn():
     # 创建连接
     conn = pymysql.connect(host="localhost",
                            user="root",
-                           password="a2691948",
+                           password="******",
                            db="studentinfo",
                            charset="utf8")
     # 创建游标
